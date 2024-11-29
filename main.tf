@@ -50,6 +50,7 @@ data "aws_iam_policy_document" "allow_access_from_another_account" {
     ]
   }
 }
+
 resource "aws_dynamodb_table" "terraform_lock" {
   name           = "terraform-lock"
   billing_mode   = "PAY_PER_REQUEST"
