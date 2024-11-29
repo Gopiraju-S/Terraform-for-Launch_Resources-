@@ -1,5 +1,5 @@
 # Terraform-for-Launch_Resources-
-Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` provisioners in Terraform, along with examples for each.
+Certainly, let's delve deeper into the `file`, `remote-exec`, `local-exec`, and 'Storing state file in S3' provisioners in Terraform, along with examples for each.
 
 1. **file Provisioner:**
 
