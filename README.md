@@ -196,7 +196,7 @@ By following these steps, you can securely store your Terraform state in S3 with
    }
    ```
 
-   In this example, the `remote-exec` provisioner connects to the AWS EC2 instance using SSH and runs a series of commands to update the package       repositories, install Apache HTTP Server, and start the HTTP server.
+      In this example, the `remote-exec` provisioner connects to the AWS EC2 instance using SSH and runs a series of commands to update the package       repositories, install Apache HTTP Server, and start the HTTP server.
 
 3. **local-exec Provisioner:**
 
